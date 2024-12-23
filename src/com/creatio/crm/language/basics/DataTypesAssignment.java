@@ -42,7 +42,7 @@ public class DataTypesAssignment {
         // Coordinates of a location (latitude, longitude)
         float latitude = 37.7749f;
         float longitude = -122.4194f;
-        System.out.println("Latitude:" + latitude + ", Longitude:" + longitude);
+        System.out.println("Latitude" +latitude+", longitude"+longitude);
 
 
         // Person's marital status
