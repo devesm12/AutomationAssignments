@@ -62,7 +62,7 @@ public class DataTypesAssignment {
         System.out.println("Current Year: " + currentYear);
 
         // Number of followers on a social media platform
-        int followersCount = 1_000_000;
+        String followersCount =" 1,000,000";
         System.out.println("Number of Followers: " + followersCount);
 
         // Rating of a movie
